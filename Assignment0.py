@@ -1,0 +1,1 @@
+print("Hi, this is the test commit required by Assignment 0 (COMP 576)")
